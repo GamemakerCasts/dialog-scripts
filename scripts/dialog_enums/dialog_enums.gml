@@ -1,0 +1,4 @@
+enum DIALOG {
+	PICTURE,
+	MESSAGE,
+}
